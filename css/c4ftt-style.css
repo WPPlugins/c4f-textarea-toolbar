@@ -1,0 +1,32 @@
+fieldset#c4ftt-controls,
+fieldset#c4ftt-emoticons {
+clear:both;
+border:none;
+}
+fieldset#c4ftt-controls legend,
+fieldset#c4ftt-emoticons legend {
+display:none;
+}
+fieldset#c4ftt-controls input,
+fieldset#c4ftt-emoticons img {
+width:auto;
+}
+#c4ftt-credit {
+text-align:right;
+margin:0;
+padding:0;
+}
+.c4f-warning {
+clear:both;
+font-size:1.3em;
+background-color:#fff;
+color:#f44;
+border:2px solid #f00;
+margin:10px;
+margin-top:50px;
+padding:10px;
+}
+.c4f-warning h3 {
+margin-top:5px;
+color:#f44;
+}
